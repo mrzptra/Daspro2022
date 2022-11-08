@@ -2,6 +2,7 @@
 NIM : A11.2022.14741
 NAMA : M REZA PUTRA G
 SITE : RZPTRA.MY.ID
+DINUSLO
 */
 #include <iostream>
 using namespace std;
